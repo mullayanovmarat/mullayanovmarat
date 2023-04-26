@@ -1,0 +1,27 @@
+p {
+    text-align: justify;
+    text-indent: 30px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+    }
+
+a {font-weight: normal; text-decoration: none; color:black;}
+a:hover{
+    color: blue; text-decoration: underline;
+    }
+a:visited {color:blue;}
+
+h1 {
+    color: blue;
+    }
+h1.bigsans {font-family: Sans; font-size: 1.5em;}
+
+div#bord {
+    font-size: 40px;
+    color: green;
+    text-align: center
+    }
+div#color1 {
+    background-color: #FFF0F0;
+    }
