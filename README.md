@@ -1,16 +1,23 @@
-### Hi there 👋
+<html>
+<head>
+<title>Уфа</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body> <table width="100%" height="100%">
 
-<!--
-**mullayanovmarat/mullayanovmarat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<tr height="20%">
+<td colspan=3><img src="салават.jpg" width="100%"></td>
+</tr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<tr bgcolor="#D0D2FF" height="5%">
+<td width="20%"><center><a href="history.html">История</a></center></td>
+<td><center><a href="dost.html">Достопримечательности</a></center></td>
+<td width="20%"><center><a href="rayons.html">Районы</a></center></td>
+</tr>
+<tr bgcolor="#FFF0F0">
+<td><center>Меню</center></td>
+<td colspan=2><center>Новостной блок</center></td>
+</tr>
+</table>
+</body>
+</html>
