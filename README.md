@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Уфа</title>
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body> <table width="100%" height="100%">
